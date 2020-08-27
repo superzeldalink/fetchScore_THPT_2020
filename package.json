@@ -1,0 +1,34 @@
+{
+  "name": "fetchscore_thpt_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchScore.js",
+  "dependencies": {
+    "cli-progress": "^2.1.1",
+    "axios": "^0.19.2",
+    "throat": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superzeldalink/fetchScore_THPT_2020.git"
+  },
+  "keywords": [
+    "fetch",
+    "diem",
+    "thpt",
+    "2020",
+    "totnghiep",
+    "js",
+    "javascript"
+  ],
+  "author": "Zelda Link",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superzeldalink/fetchScore_THPT_2020/issues"
+  },
+  "homepage": "https://github.com/superzeldalink/fetchScore_THPT_2020#readme"
+}
