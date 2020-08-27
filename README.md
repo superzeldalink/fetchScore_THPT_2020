@@ -2,7 +2,7 @@
 ## Hướng dẫn sử dụng
 1. Cài đặt Node.js tại [đây](https://nodejs.org).
 2. Tải source này xuống (bấm nút "Code" màu xanh và "Download ZIP", sau đó giải nén file.
-3. Mở cmd hoặc Terminal và trỏ vào folder đã giải nén ("cd {đường_dẫn}", đa số là "cd C:\Users\{TÊN USER}\Downloads\fetchScore_THPT_2020).
+3. Mở cmd hoặc Terminal và trỏ vào folder đã giải nén ("cd {đường_dẫn}", đa số là "cd C:\Users\{TÊN USER}\Downloads\fetchScore_THPT_2020-master).
 4. Gõ:
 ```
 npm i axios cli-progress throat
