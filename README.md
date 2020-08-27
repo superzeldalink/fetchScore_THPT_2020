@@ -5,7 +5,7 @@
 3. Mở cmd hoặc Terminal và trỏ vào folder đã giải nén ("cd {đường_dẫn}", đa số là "cd C:\Users\\{TÊN USER}\Downloads\fetchScore_THPT_2020-master).
 4. Gõ:
 ```
-npm i axios cli-progress throat
+npm i
 ```
 5. Dùng Notepad hoặc các text editor khác mở file “fetchScore.js”.
 6. Chỉnh sửa mã Sở Giáo dục, SBD min, max mà bạn muốn fetch.
