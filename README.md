@@ -1,16 +1,15 @@
 # fetchScore_THPT_2020
 ## Hướng dẫn sử dụng
 1. Cài đặt Node.js tại [đây](https://nodejs.org).
-2. Mở cmd hoặc Terminal.
-3. Gõ:
+2. Tải source này xuống (bấm nút "Code" màu xanh và "Download ZIP", sau đó giải nén file.
+3. Mở cmd hoặc Terminal và trỏ vào folder đã giải nén ("cd {đường_dẫn}", đa số là "cd C:\Users\{TÊN USER}\Downloads\fetchScore_THPT_2020).
+4. Gõ:
 ```
-git clone https://github.com/superzeldalink/fetchScore_THPT_2020.git
-cd fetchScore_THPT_2020
 npm i axios cli-progress throat
 ```
-4. Dùng Notepad hoặc các text editor khác mở file “fetchScore.js”.
-5. Chỉnh sửa mã Sở Giáo dục, SBD min, max mà bạn muốn fetch.
-6. Quay lại cmd hoặc Terminal và gõ:
+5. Dùng Notepad hoặc các text editor khác mở file “fetchScore.js”.
+6. Chỉnh sửa mã Sở Giáo dục, SBD min, max mà bạn muốn fetch.
+7. Quay lại cmd hoặc Terminal và gõ:
 ```
 npm start
 ```
